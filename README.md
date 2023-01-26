@@ -4,11 +4,11 @@ PHP Web Scraper using Goutte Library
 
 Goutte is a screen scraping and web crawling library for PHP. Goutte provides a nice API to crawl websites and extract data from the HTML/XML responses.
 
-#Prerequisites
+##Prerequisites
 
 PHP version 7.1+
 
-#Installation
+##Installation
 
 Download the php_goutte folder to the local machine. Open the command prompt or terminal. Change the working directory to the php_curl folder. Enter the following command to Add fabpot/goutte as a require dependency in your composer.json file:
 
@@ -16,7 +16,7 @@ composer require fabpot/goutte
 
 Check composer.json is created. 
 
-Using the code:
+##Using the code:
 
 Type the following command
 
